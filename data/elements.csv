@@ -1,0 +1,6 @@
+element,symbol,atomic_number,atomic_weight,density_g_cm3,melting_point_C,boiling_point_C,magnetic_property,optical_property,key_applications,notes
+Neodymium,Nd,60,144.24,7.01,1024,3074,Ferromagnetic,Red optical lines,"Magnets; lasers","Used in NdFeB magnets"
+Samarium,Sm,62,150.36,7.52,1072,1900,Ferromagnetic,-,"SmCo magnets","High-temp stability"
+Cerium,Ce,58,140.12,6.77,795,3257,Paramagnetic,UV absorption,"Catalysts; glass","Auto catalysts"
+Praseodymium,Pr,59,140.91,6.77,931,3520,Paramagnetic,Green coloring,"Magnets; alloys","Used in Nd-Pr magnet alloys"
+Lanthanum,La,57,138.91,6.15,920,3464,Paramagnetic,High refractive index oxide,"Optical glass; catalysts","Hydrogen storage relevance"

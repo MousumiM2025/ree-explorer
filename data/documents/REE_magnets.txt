@@ -1,0 +1,3 @@
+Rare earth magnets: NdFeB and SmCo are the two main families of high-performance permanent magnets.
+Nd2Fe14B (NdFeB) offers the highest energy product but is sensitive to corrosion and temperature; often plated with Ni-Cu-Ni or coated with epoxy.
+SmCo alloys (SmCo5, Sm2Co17) are more temperature-stable and corrosion-resistant but more expensive.

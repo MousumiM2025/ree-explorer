@@ -1,0 +1,2 @@
+Magnet recycling methods include hydrogen decrepitation, mechanical separation, and chemical processing for REE recovery.
+Hydrogen decrepitation allows demagnetization and pulverization of NdFeB magnets, enabling subsequent separation and re-sintering.

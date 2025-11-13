@@ -1,0 +1,6 @@
+alloy,composition,density_g_cm3,Curie_temp_C,magnetic_property,key_properties,key_applications,notes
+Nd2Fe14B,"Nd:31-32%; Fe:63-66%; B:1-2%",7.5,"310-340",Ferromagnetic,"High BHmax","Magnets; EV motors","Corrosion-prone"
+SmCo5,"Sm:36%; Co:64%",8.3,720,Ferromagnetic,"High temp stability","High-temp magnets","Expensive"
+Sm2Co17,"Sm:25%; Co:70%; Fe/Cu/Zr:5%",8.4,"750-825",Ferromagnetic,"Very high coercivity","Turbines; traction motors","Better corrosion resistance than SmCo5"
+LaNi5,"La:1; Ni:5",7.95,-,Paramagnetic,"Hydrogen storage","NiMH batteries","Reversible absorption"
+TerfenolD,"Tb0.3Dy0.7Fe1.92",9.3,380,Magnetostrictive,"Large magnetostrictive strain (~1000 ppm)","Actuators; sonar; adaptive optics","High-performance magnetostrictive material"
